@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alistair</h1>
 <h3 align="center">A passionate student and inventor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alistairkeiller&label=Profile%20views&color=0e75b6&style=flat" alt="alistairkeiller" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alistairkeiller&label=Profile%20views&color=0e75b6&style=flat" alt="alistairkeiller" /> </p>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=alistairkeiller&theme=onedark&column=5&rank=SSS,SS,S,AAA,AA,A" />
