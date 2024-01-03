@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alistairkeiller&label=Profile%20views&color=0e75b6&style=flat" alt="alistairkeiller" /> </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=alistairkeiller&column=8&rank=SSS,SS,S,AAA,AA,A" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=alistairkeiller&column=5&rank=SSS,SS,S,AAA,AA,A" />
 </p>
 
 - 🔭 I’m currently working on [Quantris](https://github.com/AlistairKeiller/quantris)
