@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **NVIDIA Warp and Mojo**
 
-- 👯 I'm looking to collaborate on **Anything fast, lightweight, and useful! Currently want to create a better cross-platform TTS.**
+- 👯 I'm looking to collaborate on **fast, lightweight, and useful new tools! Currently want to create a better cross-platform TTS.**
 
 - 📫 How to reach me **alistair@keiller.net**
 
