@@ -2,7 +2,7 @@
 
 ### A learner, maker, and pretty code enjoyer
 
-- 🔭 I'm currently working on **Fully Autonomous Race Cars (https://github.com/uci-f1tenth)**
+- 🔭 I'm currently working on **fully autonomous race cars (https://github.com/uci-f1tenth)**
 
 - 🌱 I'm currently learning **NVIDIA Warp and Mojo**
 
